@@ -11,7 +11,7 @@
 
 |  ID   |       Name       |                     Source                     |                                     Thinking                                     | Version                                                                      |
 | :---: | :--------------: | :--------------------------------------------: | :------------------------------------------------------------------------------: | ---------------------------------------------------------------------------- |
-| P1001 |   A+B Problem    | [Link](https://www.luogu.com.cn/problem/P1001) |                                                                                  | [C++](/blob/main/P1001-cpp/main.cpp) |
+| P1001 |   A+B Problem    | [Link](https://www.luogu.com.cn/problem/P1001) |                                                                                  | [C++](P1001-cpp/main.cpp) |
 <!-- | P1421 |    小玉买文具    | [Link](https://www.luogu.com.cn/problem/P1421) |                                                                                  | [C++](https://github.com/ZhengKe996/Algorithms/blob/main/P1421-cpp/main.cpp) |
 | P1420 |     最长连号     | [Link](https://www.luogu.com.cn/problem/P1420) |                                                                                  | [C++](https://github.com/ZhengKe996/Algorithms/blob/main/P1420-cpp/main.cpp) |
 | P1425 |  小鱼的游泳时间  | [Link](https://www.luogu.com.cn/problem/P1425) |                                                                                  | [C++](https://github.com/ZhengKe996/Algorithms/blob/main/P1425-cpp/main.cpp) |
