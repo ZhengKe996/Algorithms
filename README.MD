@@ -6,7 +6,6 @@
 <img src="https://img.shields.io/badge/language-C++-green?style=for-the-badge">
 <img src="https://img.shields.io/badge/language-golang-6BACF9?style=for-the-badge">
 <img src="https://img.shields.io/badge/language-java-yellow?style=for-the-badge">
-<img src="https://img.shields.io/badge/language-Javascript-ff69b4?style=for-the-badge">
 <img src="https://img.shields.io/badge/language-python-blue?style=for-the-badge">
 </p>
 
