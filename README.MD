@@ -21,3 +21,4 @@
 | P1151 |     子数整数     | [描述](P1151-cpp/) |                           | [C++](P1151-cpp/main.cpp) |
 | P1634 |   禽兽的传染病   | [描述](P1634-cpp/) |                           | [C++](P1634-cpp/main.cpp) |
 | P3742 |    umi 的函数    | [描述](P3742-cpp/) | [思路](P3742-cpp/IDEA.md) | [C++](P3742-cpp/main.cpp) |
+| P1554 |    梦中的统计    | [描述](P1554-cpp/) |                           | [C++](P1554-cpp/main.cpp) |
