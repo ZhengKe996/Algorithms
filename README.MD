@@ -18,3 +18,4 @@
 | P2956 | The Robot Plow G | [Link](https://www.luogu.com.cn/problem/P2956) | [C++](https://github.com/ZhengKe996/Algorithms/P2956-cpp/main.cpp) |
 | P4325 | Modulo           | [Link](https://www.luogu.com.cn/problem/P4325) | [C++](https://github.com/ZhengKe996/Algorithms/P4325-cpp/main.cpp) |
 | P4413 | R2               | [Link](https://www.luogu.com.cn/problem/P4413) | [C++](https://github.com/ZhengKe996/Algorithms/P4413-cpp/main.cpp) |
+| P1151 | 子数整数         | [Link](https://www.luogu.com.cn/problem/P1151) | [C++](https://github.com/ZhengKe996/Algorithms/P1151-cpp/main.cpp) |
