@@ -1,10 +1,3 @@
-<style>
-table
-{
-    margin: auto;
-}
-</style>
-
 # 算法刷题集
 
 **刷题平台 [洛谷](https://www.luogu.com.cn)**
