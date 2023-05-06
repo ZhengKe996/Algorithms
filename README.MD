@@ -9,6 +9,14 @@
 <img src="https://img.shields.io/badge/language-python-blue?style=for-the-badge">
 </p>
 
+## 排序模版
+
+|   Name   |                Link                |
+| :------: | :--------------------------------: |
+| 快速排序 | [Link](QuickSortTemplate/main.cpp) |
+
+## 刷题集
+
 |   ID   |        Name        |       Source        |         Thinking          |          Version           |
 | :----: | :----------------: | :-----------------: | :-----------------------: | :------------------------: |
 | P1001  |    A+B Problem     | [描述](P1001-cpp/)  |                           | [C++](P1001-cpp/main.cpp)  |
