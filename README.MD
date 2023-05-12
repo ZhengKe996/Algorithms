@@ -9,11 +9,14 @@
 <img src="https://img.shields.io/badge/language-python-blue?style=for-the-badge">
 </p>
 
-## 排序模版
+## 算法模版
 
-|   Name   |                Link                |
-| :------: | :--------------------------------: |
-| 快速排序 | [Link](QuickSortTemplate/main.cpp) |
+|    Name    |              Version              |
+| :--------: | :-------------------------------: |
+|  快速排序  | [C++](QuickSortTemplate/main.cpp) |
+|  归并排序  |     [C++](MergeSort/main.cpp)     |
+|  整数二分  |   [C++](IntegerBinary/main.cpp)   |
+| 浮点数二分 |    [C++](FloatBinary/main.cpp)    |
 
 ## 刷题集
 
