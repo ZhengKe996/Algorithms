@@ -35,4 +35,5 @@
 |  P3742   |         umi 的函数         |  [描述](P3742-cpp/)   | [思路](P3742-cpp/IDEA.md) |  [C++](P3742-cpp/main.cpp)   |
 |  P1554   |         梦中的统计         |  [描述](P1554-cpp/)   |                           |  [C++](P1554-cpp/main.cpp)   |
 |  UVA101  |     The Blocks Problem     |  [描述](UVA101-cpp/)  |                           |  [C++](UVA101-cpp/main.cpp)  |
-| UVA11988 | 破损的键盘 Broken Keyboard | [描述](UVA11988-cpp/) |                           | [C++](UVA11988-cpp/main.cpp) |
+| UVA11988 | 破损的键盘 Broken Keyboard | [描述](UVA11988-cpp/) |         Char 链表         | [C++](UVA11988-cpp/main.cpp) |
+| UVA12657 |  移动盒子 Boxes in a Line  | [描述](UVA12657-cpp/) |         静态链表          | [C++](UVA12657-cpp/main.cpp) |
