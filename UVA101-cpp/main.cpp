@@ -37,16 +37,16 @@ void goback(int p, int h)//p位>h之上的所有位归位
         int k = block[p][i];
         block[k].push_back(k);
     }
-    block[p].resize(h + 1);//重置大小
+    block[p].resize(h + 1);// 重置大小
 }
 
-void moveall(int p, int h, int q)//p��>=h�����п��ƶ���q֮��
+void moveall(int p, int h, int q)// p位>=之上的所有块移动到q之上
 {
     for (int i = h; i < block[p].size(); i++) {
         int k = block[p][i];
         block[q].push_back(k);
     }
-    block[p].resize(h);//���ô�С
+    block[p].resize(h);// 重置大小
 }
 
 void solve() {
