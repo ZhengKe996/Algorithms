@@ -45,6 +45,11 @@ int main() {
                 }
 
                 ans += m1.a * m1.b * m2.b; // m1的行 * m1的列 * m2的行
+                /**
+                 * temp a = m1.a;
+                 * temp b = m2,b;
+                 * s.push(temp)
+                 */
                 s.push(Matrix(m1.a, m2.b)); // 结果矩阵入栈
             }
         }

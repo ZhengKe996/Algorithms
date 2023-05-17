@@ -37,6 +37,6 @@
 |  UVA101  |     The Blocks Problem     |  [描述](UVA101-cpp/)  |                           |  [C++](UVA101-cpp/main.cpp)  |
 | UVA11988 | 破损的键盘 Broken Keyboard | [描述](UVA11988-cpp/) |         Char 链表         | [C++](UVA11988-cpp/main.cpp) |
 | UVA12657 |  移动盒子 Boxes in a Line  | [描述](UVA12657-cpp/) |         静态链表          | [C++](UVA12657-cpp/main.cpp) |
-|  P1739   |       表达式括号匹配       |  [描述](P1739-cpp/)   |                           |  [C++](P1739-cpp/main.cpp)   |
-|  UVA514  |            铁轨            |  [描述](UVA514-cpp/)  |                           |  [C++](UVA514-cpp/main.cpp)  |
-|  UVA442  |          矩阵链乘          |  [描述](UVA442-cpp/)  |                           |  [C++](UVA442-cpp/main.cpp)  |
+|  P1739   |       表达式括号匹配       |  [描述](P1739-cpp/)   |            栈             |  [C++](P1739-cpp/main.cpp)   |
+|  UVA514  |            铁轨            |  [描述](UVA514-cpp/)  |            栈             |  [C++](UVA514-cpp/main.cpp)  |
+|  UVA442  |          矩阵链乘          |  [描述](UVA442-cpp/)  |            栈             |  [C++](UVA442-cpp/main.cpp)  |
