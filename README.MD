@@ -40,3 +40,4 @@
 |  P1739   |       表达式括号匹配       |  [描述](P1739-cpp/)   |            栈             |  [C++](P1739-cpp/main.cpp)   |
 |  UVA514  |            铁轨            |  [描述](UVA514-cpp/)  |            栈             |  [C++](UVA514-cpp/main.cpp)  |
 |  UVA442  |          矩阵链乘          |  [描述](UVA442-cpp/)  |            栈             |  [C++](UVA442-cpp/main.cpp)  |
+| UVA12100 |   打印队列 Printer Queue   | [描述](UVA12100-cpp/) |            栈             | [C++](UVA12100-cpp/main.cpp) |
