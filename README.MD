@@ -40,4 +40,10 @@
 |  P1739   |       表达式括号匹配       |  [描述](P1739-cpp/)   |            栈             |  [C++](P1739-cpp/main.cpp)   |
 |  UVA514  |            铁轨            |  [描述](UVA514-cpp/)  |            栈             |  [C++](UVA514-cpp/main.cpp)  |
 |  UVA442  |          矩阵链乘          |  [描述](UVA442-cpp/)  |            栈             |  [C++](UVA442-cpp/main.cpp)  |
-| UVA12100 |   打印队列 Printer Queue   | [描述](UVA12100-cpp/) |            栈             | [C++](UVA12100-cpp/main.cpp) |
+| UVA12100 |   打印队列 Printer Queue   | [描述](UVA12100-cpp/) |           队列            | [C++](UVA12100-cpp/main.cpp) |
+|  P1138   |        第 k 小整数         |  [描述](P1138-cpp/)   |           数组            |  [C++](P1138-cpp/main.cpp)   |
+|  P2550   |          彩票摇奖          |  [描述](P1138-cpp/)   |           数组            |  [C++](P1138-cpp/main.cpp)   |
+|  P1320   |     压缩技术（续集版）     |  [描述](P1320-cpp/)   |        字符串&数组        |  [C++](P1320-cpp/main.cpp)   |
+|  P1830   |          轰炸 III          |  [描述](P1830-cpp/)   |   一维数组&结构体或数组   |  [C++](P1830-cpp/main.cpp)   |
+|  P1789   |           插火把           |  [描述](P1789-cpp/)   |         二维数组          |  [C++](P1789-cpp/main.cpp)   |
+|  UVA210  |        并行程序模拟        |  [描述](UVA210-cpp/)  |         队列&数组         |  [C++](UVA210-cpp/main.cpp)  |
