@@ -9,16 +9,19 @@
 <img src="https://img.shields.io/badge/language-python-blue?style=for-the-badge">
 </p>
 
-## 算法模版
+## 模版
 
-|    Name    |                 Version                 |
-| :--------: | :-------------------------------------: |
-|  快速排序  |   [C++](00QuickSortTemplate/main.cpp)   |
-|  归并排序  |   [C++](00MergeSortTemplate/main.cpp)   |
-|  整数二分  | [C++](00IntegerBinaryTemplate/main.cpp) |
-| 浮点数二分 |  [C++](00FloatBinaryTemplate/main.cpp)  |
+|        Name         |                  Version                   |                                             |
+| :-----------------: | :----------------------------------------: | :-----------------------------------------: |
+|      快速排序       |    [C++](00QuickSortTemplate/main.cpp)     |
+|      归并排序       |    [C++](00MergeSortTemplate/main.cpp)     |
+|      整数二分       |  [C++](00IntegerBinaryTemplate/main.cpp)   |
+|     浮点数二分      |   [C++](00FloatBinaryTemplate/main.cpp)    |
+| 高精度运算（C/C++） |  [加减](00HighPrecisionTemplate/main.cpp)  |  [乘除](00HighPrecisionTemplate2/main.cpp)  |
+|    前缀和与差分     | [一维前缀和](00PrefixSumTemplate/main.cpp) | [二维前缀和](00PrefixSumTemplate2/main.cpp) |
+|                     | [一维差分](00DifferenceTemplate/main.cpp)  | [二维差分](00DifferenceTemplate2/main.cpp)  |
 
-## 刷题集
+## 刷题合集
 
 |    ID    |            Name            |        Source         |         Thinking          |           Version            |
 | :------: | :------------------------: | :-------------------: | :-----------------------: | :--------------------------: |
