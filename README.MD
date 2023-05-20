@@ -11,12 +11,12 @@
 
 ## 算法模版
 
-|    Name    |               Version               |
-| :--------: | :---------------------------------: |
-|  快速排序  | [C++](00QuickSortTemplate/main.cpp) |
-|  归并排序  |     [C++](00MergeSort/main.cpp)     |
-|  整数二分  |   [C++](00IntegerBinary/main.cpp)   |
-| 浮点数二分 |    [C++](00FloatBinary/main.cpp)    |
+|    Name    |                 Version                 |
+| :--------: | :-------------------------------------: |
+|  快速排序  |   [C++](00QuickSortTemplate/main.cpp)   |
+|  归并排序  |   [C++](00MergeSortTemplate/main.cpp)   |
+|  整数二分  | [C++](00IntegerBinaryTemplate/main.cpp) |
+| 浮点数二分 |  [C++](00FloatBinaryTemplate/main.cpp)  |
 
 ## 刷题集
 

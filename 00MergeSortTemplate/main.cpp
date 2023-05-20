@@ -13,16 +13,16 @@ int q[N], tmp[N];
  * @param r 右边界
  */
 void merge_sort(int q[], int l, int r) {
-    if (l >= r) return;
+    if (l >= r) return; // 没有数或只有1个数则不排序
 
     int mid = l + r >> 1; // 取中值
 
-    merge_sort(q, l, mid); // 递归排序
-    merge_sort(q, mid + 1, r);
+    merge_sort(q, l, mid); // 递归排序 左边
+    merge_sort(q, mid + 1, r); // 递归排序 右边
 
-    int k = 0, i = l, j = mid + 1;
+    int k = 0, i = l, j = mid + 1; // 归并排序开始 i指左半边起点； j指右半边的起点
 
-    while (i <= mid && j <= r) {
+    while (i <= mid && j <= r) { // 左右循环都满足条件 每次把小的放到当前的位置上
         if (q[i] <= q[j]) {
             tmp[k++] = q[i++];
         } else {
@@ -30,11 +30,11 @@ void merge_sort(int q[], int l, int r) {
         }
     }
 
-    while (i <= mid) {
+    while (i <= mid) { // 左边没循环完 全部接到对应位置上
         tmp[k++] = q[i++];
     }
 
-    while (j <= r) {
+    while (j <= r) {// 右边没循环完 全部接到对应位置上
         tmp[k++] = q[j++];
     }
 

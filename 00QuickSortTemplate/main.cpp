@@ -17,7 +17,7 @@ void quick_sort(int q[], int l, int r) {
         return;
     }
 
-    int x = q[l], i = l - 1, j = r + 1;// i左边界 j右边界 x 分界点
+    int x = q[r], i = l - 1, j = r + 1;// i左边界 j右边界 x 分界点
     while (i < j) { // i是从左往右 j从右往左
         do {
             i++;
