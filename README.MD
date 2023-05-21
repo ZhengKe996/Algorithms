@@ -7,6 +7,24 @@
 <img src="https://img.shields.io/badge/language-python-blue?style=for-the-badge">
 </p>
 
+## LeetCode 合集
+
+| ID  |          Name          |        Type        |            C++            |               Java               |
+| :-: | :--------------------: | :----------------: | :-----------------------: | :------------------------------: |
+| 26  | 删除有序数组中的重复项 |       Array        | [C++](L-26-cpp/main.cpp)  |                                  |
+| 283 |         移动零         |       Array        | [C++](L-283-cpp/main.cpp) |                                  |
+| 88  |    合并两个有序数组    |       Array        | [C++](L-88-cpp/main.cpp)  |                                  |
+| 206 |        反转链表        | Single linked list | [C++](L-206-cpp/main.cpp) | [Java](L-206-java/src/Main.java) |
+| 25  |    K 个一组翻转链表    | Single linked list | [C++](L-25-cpp/main.cpp)  | [Java](L-25-java/src/Main.java)  |
+| 141 |        环形链表        | Single linked list | [C++](L-141-cpp/main.cpp) |                                  |
+| 142 |      环形链表 II       | Single linked list | [C++](L-142-cpp/main.cpp) |                                  |
+
+## Acwing 合集
+
+| ID  |   Name   |        Type        |           C++            | Java |
+| :-: | :------: | :----------------: | :----------------------: | :--: |
+| 136 | 邻值查找 | Single linked list | [C++](L-25-cpp/main.cpp) |      |
+
 ## 洛谷合集
 
 |    ID    |            Name            |         Thinking          |             C++              |
@@ -43,11 +61,3 @@
 |  UVA401  |     回文词 Palindromes     |                           |  [C++](UVA401-cpp/main.cpp)  |
 |  UVA642  |     Word Amalgamation      |                           |  [C++](UVA642-cpp/main.cpp)  |
 | UVA1584  | 环状序列 Circular Sequence |                           | [C++](UVA1584-cpp/main.cpp)  |
-
-## LeetCode 合集
-
-| ID  |          Name          | Type  |               C++                |
-| :-: | :--------------------: | :---: | :------------------------------: |
-| 26  | 删除有序数组中的重复项 | Array | [C++](LeetCode-26-cpp/main.cpp)  |
-| 283 |         移动零         | Array | [C++](LeetCode-283-cpp/main.cpp) |
-| 88  |    合并两个有序数组    | Array | [C++](LeetCode-88-cpp/main.cpp)  |
