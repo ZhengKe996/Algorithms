@@ -7,18 +7,6 @@
 <img src="https://img.shields.io/badge/language-python-blue?style=for-the-badge">
 </p>
 
-## 模版
-
-|        Name         |                  Version                   |                                             |
-| :-----------------: | :----------------------------------------: | :-----------------------------------------: |
-|      快速排序       |    [C++](00QuickSortTemplate/main.cpp)     |
-|      归并排序       |    [C++](00MergeSortTemplate/main.cpp)     |
-|      整数二分       |  [C++](00IntegerBinaryTemplate/main.cpp)   |
-|     浮点数二分      |   [C++](00FloatBinaryTemplate/main.cpp)    |
-| 高精度运算（C/C++） |  [加减](00HighPrecisionTemplate/main.cpp)  |  [乘除](00HighPrecisionTemplate2/main.cpp)  |
-|    前缀和与差分     | [一维前缀和](00PrefixSumTemplate/main.cpp) | [二维前缀和](00PrefixSumTemplate2/main.cpp) |
-|                     | [一维差分](00DifferenceTemplate/main.cpp)  | [二维差分](00DifferenceTemplate2/main.cpp)  |
-
 ## 洛谷合集
 
 |    ID    |            Name            |         Thinking          |             C++              |
@@ -44,8 +32,8 @@
 | UVA12100 |   打印队列 Printer Queue   |           队列            | [C++](UVA12100-cpp/main.cpp) |
 |  P1138   |        第 k 小整数         |           数组            |  [C++](P1138-cpp/main.cpp)   |
 |  P2550   |          彩票摇奖          |           数组            |  [C++](P1138-cpp/main.cpp)   |
-|  P1320   |     压缩技术（续集版）     |        字符串&数组        |  [C++](P1320-cpp/main.cpp)   |
-|  P1830   |          轰炸 III          |   一维数组&结构体或数组   |  [C++](P1830-cpp/main.cpp)   |
+|  P1320   |     压缩技术（续集版）     |                           |  [C++](P1320-cpp/main.cpp)   |
+|  P1830   |          轰炸 III          |      一维数组&结构体      |  [C++](P1830-cpp/main.cpp)   |
 |  P1789   |           插火把           |         二维数组          |  [C++](P1789-cpp/main.cpp)   |
 |  UVA210  |        并行程序模拟        |         队列&数组         |  [C++](UVA210-cpp/main.cpp)  |
 |  P5015   |          标题统计          |                           |  [C++](P5015-cpp/main.cpp)   |
@@ -58,8 +46,8 @@
 
 ## LeetCode 合集
 
-| ID  |          Name          | Thinking |               C++                |
-| :-: | :--------------------: | :------: | :------------------------------: |
-| 26  | 删除有序数组中的重复项 |  Array   | [C++](LeetCode-26-cpp/main.cpp)  |
-| 283 |         移动零         |  Array   | [C++](LeetCode-283-cpp/main.cpp) |
-| 88  |    合并两个有序数组    |  Array   | [C++](LeetCode-88-cpp/main.cpp)  |
+| ID  |          Name          | Type  |               C++                |
+| :-: | :--------------------: | :---: | :------------------------------: |
+| 26  | 删除有序数组中的重复项 | Array | [C++](LeetCode-26-cpp/main.cpp)  |
+| 283 |         移动零         | Array | [C++](LeetCode-283-cpp/main.cpp) |
+| 88  |    合并两个有序数组    | Array | [C++](LeetCode-88-cpp/main.cpp)  |
