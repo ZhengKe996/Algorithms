@@ -6,7 +6,7 @@ int slen;
 int tlen;
 int next2[1000000 + 5];
 
-void get_next2(string t) {
+void get_next(string t) {
     int j = 0, k = -1;
     next2[0] = -1;
     while (j < tlen)
@@ -20,7 +20,7 @@ void KMP(string s, string t) {
     int i = 0, j = 0;
     slen = s.length();
     tlen = t.length();
-    get_next2(t);
+    get_next(t);
     while (i < slen) {
         if (j == -1 || s[i] == t[j]) {
             i++;
