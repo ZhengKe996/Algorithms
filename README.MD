@@ -50,3 +50,10 @@
 |  P1830   |          轰炸 III          |  [描述](P1830-cpp/)   |   一维数组&结构体或数组   |  [C++](P1830-cpp/main.cpp)   |
 |  P1789   |           插火把           |  [描述](P1789-cpp/)   |         二维数组          |  [C++](P1789-cpp/main.cpp)   |
 |  UVA210  |        并行程序模拟        |  [描述](UVA210-cpp/)  |         队列&数组         |  [C++](UVA210-cpp/main.cpp)  |
+|  P5015   |          标题统计          |  [描述](P5015-cpp/)   |                           |  [C++](P5015-cpp/main.cpp)   |
+|  P3375   |       KMP 字符串匹配       |  [描述](P3375-cpp/)   |                           |  [C++](P3375-cpp/main.cpp)   |
+|  UVA455  |  周期串 Periodic Strings   |  [描述](UVA455-cpp/)  |                           |  [C++](UVA455-cpp/main.cpp)  |
+|  UVA401  |     回文词 Palindromes     |  [描述](UVA401-cpp/)  |                           |  [C++](UVA401-cpp/main.cpp)  |
+|  UVA401  |     回文词 Palindromes     |  [描述](UVA401-cpp/)  |                           |  [C++](UVA401-cpp/main.cpp)  |
+|  UVA642  |     Word Amalgamation      |  [描述](UVA642-cpp/)  |                           |  [C++](UVA642-cpp/main.cpp)  |
+| UVA1584  | 环状序列 Circular Sequence | [描述](UVA1584-cpp/)  |                           | [C++](UVA1584-cpp/main.cpp)  |
