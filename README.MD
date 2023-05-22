@@ -9,20 +9,28 @@
 
 ## LeetCode 合集
 
-| ID  |          Name          |        Type        |            C++            |               Java               |        Golang        |
-| :-: | :--------------------: | :----------------: | :-----------------------: | :------------------------------: | :------------------: |
-|  1  |        两数之和        |                    |                           |  [Java](L-1-java/src/Main.java)  | [Go](L-1-go/main.go) |
-| 26  | 删除有序数组中的重复项 |       Array        | [C++](L-26-cpp/main.cpp)  |                                  |
-| 283 |         移动零         |       Array        | [C++](L-283-cpp/main.cpp) |                                  |
-| 88  |    合并两个有序数组    |       Array        | [C++](L-88-cpp/main.cpp)  |                                  |
-| 206 |        反转链表        | Single linked list | [C++](L-206-cpp/main.cpp) | [Java](L-206-java/src/Main.java) |
-| 25  |    K 个一组翻转链表    | Single linked list | [C++](L-25-cpp/main.cpp)  | [Java](L-25-java/src/Main.java)  |
-| 141 |        环形链表        | Doubly linked list | [C++](L-141-cpp/main.cpp) |                                  |
-| 142 |      环形链表 II       | Doubly linked list | [C++](L-142-cpp/main.cpp) |                                  |
+| ID  |          Name          |        Type        |            C++            |               Java               |        Golang         | Python |
+| :-: | :--------------------: | :----------------: | :-----------------------: | :------------------------------: | :-------------------: | ------ |
+|  1  |        两数之和        |                    |                           |  [Java](L-1-java/src/Main.java)  | [Go](L-1-go/main.go)  |        |
+| 26  | 删除有序数组中的重复项 |       Array        | [C++](L-26-cpp/main.cpp)  |                                  |                       |        |
+| 283 |         移动零         |       Array        | [C++](L-283-cpp/main.cpp) |                                  |                       |        |
+| 88  |    合并两个有序数组    |       Array        | [C++](L-88-cpp/main.cpp)  |                                  |                       |        |
+| 206 |        反转链表        | Single linked list | [C++](L-206-cpp/main.cpp) | [Java](L-206-java/src/Main.java) |                       |        |
+| 25  |    K 个一组翻转链表    | Single linked list | [C++](L-25-cpp/main.cpp)  | [Java](L-25-java/src/Main.java)  |                       |        |
+| 141 |        环形链表        | Doubly linked list | [C++](L-141-cpp/main.cpp) |                                  |                       |        |
+| 142 |      环形链表 II       | Doubly linked list | [C++](L-142-cpp/main.cpp) |                                  |                       |        |
+| 35  |    搜索插入位置 II     |                    |                           |                                  | [Go](L-35-go/main.go) |        |
+| 20  |       有效的括号       |       Stack        | [C++](L-20-cpp/main.cpp)  |                                  |                       |        |
+| 155 |         最小栈         |       Stack        | [C++](L-155-cpp/main.cpp) |                                  |                       |        |
+| 150 |    逆波兰表达式求值    |       Stack        | [C++](L-150-cpp/main.cpp) |                                  |                       |        |
+| 227 |     基本计算器 II      |       Stack        | [C++](L-227-cpp/main.cpp) |                                  |                       |        |
+| 224 |       基本计算器       |       Stack        | [C++](L-224-cpp/main.cpp) |                                  |                       |        |
+| 84  |   柱状图中最大的矩形   |  Monotonic stack   | [C++](L-84-cpp/main.cpp)  |                                  |                       |        |
+| 42  |         接雨水         |  Monotonic stack   | [C++](L-42-cpp/main.cpp)  |                                  |                       |        |
 
 ## Acwing 合集
 
-| ID  |   Name   | level  |           C++            | Java |
+| ID  |   Name   | Level  |           C++            | Java |
 | :-: | :------: | :----: | :----------------------: | :--: |
 | 136 | 邻值查找 | Medium | [C++](L-25-cpp/main.cpp) |      |
 
