@@ -5,6 +5,11 @@ using namespace std;
 
 class Solution {
 public:
+    /**
+     * 横向考虑
+     * @param heights
+     * @return
+     */
     int trap(vector<int> &heights) {
         int ans = 0;
         for (int height: heights) {
@@ -26,17 +31,56 @@ public:
         return ans;
     }
 
+    /**
+     * 前缀后缀最大值
+     * @param heights
+     * @return
+     */
+    int trap2(vector<int> &heights) {
+        int n = heights.size();
+        preMax = vector<int>(n);
+        sufMax = vector<int>(n);
+        preMax[0] = heights[0];
+
+        for (int i = 1; i < n; i++) {
+            preMax[i] = max(preMax[i - 1], heights[i]);
+        }
+        sufMax[n - 1] = heights[n - 1];
+
+        for (int i = n - 2; i >= 0; i--) {
+            sufMax[i] = max(sufMax[i + 1], heights[i]);
+        }
+
+        int ans = 0;
+        // 枚举每个数条
+        for (int i = 1; i < n - 1; i++) {
+            int up = min(preMax[i - 1], sufMax[i + 1]);
+            int bottom = heights[i];
+            if (up > bottom) { // 能存水
+                ans += (up - bottom);
+            }
+        }
+
+
+        return ans;
+    }
+
 private:
     struct Rect {
         int width;
         int height;
     };
     stack<Rect> s;
+
+    vector<int> preMax;
+    vector<int> sufMax;
 };
+
 
 int main() {
     Solution s;
     vector<int> height{0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1};
     cout << s.trap(height);
+    cout << s.trap2(height);
     return 0;
 }
