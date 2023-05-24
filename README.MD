@@ -11,7 +11,6 @@
 
 | ID  |          Name          |        Type        |            C++            |               Java               |        Golang         | Python |
 | :-: | :--------------------: | :----------------: | :-----------------------: | :------------------------------: | :-------------------: | ------ |
-|  1  |        两数之和        |                    |                           |  [Java](L-1-java/src/Main.java)  | [Go](L-1-go/main.go)  |        |
 | 26  | 删除有序数组中的重复项 |       Array        | [C++](L-26-cpp/main.cpp)  |                                  |                       |        |
 | 283 |         移动零         |       Array        | [C++](L-283-cpp/main.cpp) |                                  |                       |        |
 | 88  |    合并两个有序数组    |       Array        | [C++](L-88-cpp/main.cpp)  |                                  |                       |        |
@@ -27,6 +26,11 @@
 | 224 |       基本计算器       |       Stack        | [C++](L-224-cpp/main.cpp) |                                  |                       |        |
 | 84  |   柱状图中最大的矩形   |  Monotonic stack   | [C++](L-84-cpp/main.cpp)  |                                  |                       |        |
 | 42  |         接雨水         |  Monotonic stack   | [C++](L-42-cpp/main.cpp)  |                                  |                       |        |
+|  1  |        两数之和        |        Map         |  [C++](L-1-cpp/main.cpp)  |  [Java](L-1-java/src/Main.java)  | [Go](L-1-go/main.go)  |        |
+| 874 |     模拟行走机器人     |        Set         | [C++](L-874-cpp/main.cpp) |                                  |                       |        |
+| 49  |     字母异位词分组     |        Map         | [C++](L-49-cpp/main.cpp)  |                                  |                       |        |
+| 30  |   串联所有单词的子串   |        Map         | [C++](L-30-cpp/main.cpp)  |                                  |                       |        |
+| 146 |        LRU 缓存        |                    | [C++](L-146-cpp/main.cpp) |                                  |                       |        |
 
 ## Acwing 合集
 
