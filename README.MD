@@ -9,44 +9,49 @@
 
 ## LeetCode 合集
 
-|  ID  |            Name             |        Type        |            C++             |               Java               |        Golang         | Python |
-| :--: | :-------------------------: | :----------------: | :------------------------: | :------------------------------: | :-------------------: | ------ |
-|  26  |   删除有序数组中的重复项    |       Array        |  [C++](L-26-cpp/main.cpp)  |                                  |                       |        |
-| 283  |           移动零            |       Array        | [C++](L-283-cpp/main.cpp)  |                                  |                       |        |
-|  88  |      合并两个有序数组       |       Array        |  [C++](L-88-cpp/main.cpp)  |                                  |                       |        |
-| 206  |          反转链表           | Single linked list | [C++](L-206-cpp/main.cpp)  | [Java](L-206-java/src/Main.java) |                       |        |
-|  25  |      K 个一组翻转链表       | Single linked list |  [C++](L-25-cpp/main.cpp)  | [Java](L-25-java/src/Main.java)  |                       |        |
-| 141  |          环形链表           | Doubly linked list | [C++](L-141-cpp/main.cpp)  |                                  |                       |        |
-| 142  |         环形链表 II         | Doubly linked list | [C++](L-142-cpp/main.cpp)  |                                  |                       |        |
-|  35  |       搜索插入位置 II       |                    |                            |                                  | [Go](L-35-go/main.go) |        |
-|  20  |         有效的括号          |       Stack        |  [C++](L-20-cpp/main.cpp)  |                                  |                       |        |
-| 155  |           最小栈            |       Stack        | [C++](L-155-cpp/main.cpp)  |                                  |                       |        |
-| 150  |      逆波兰表达式求值       |       Stack        | [C++](L-150-cpp/main.cpp)  |                                  |                       |        |
-| 227  |        基本计算器 II        |       Stack        | [C++](L-227-cpp/main.cpp)  |                                  |                       |        |
-| 224  |         基本计算器          |       Stack        | [C++](L-224-cpp/main.cpp)  |                                  |                       |        |
-|  84  |     柱状图中最大的矩形      |  Monotonic stack   |  [C++](L-84-cpp/main.cpp)  |                                  |                       |        |
-|  42  |           接雨水            |  Monotonic stack   |  [C++](L-42-cpp/main.cpp)  |                                  |                       |        |
-|  1   |          两数之和           | Map/Double pointer |  [C++](L-1-cpp/main.cpp)   |  [Java](L-1-java/src/Main.java)  | [Go](L-1-go/main.go)  |        |
-| 874  |       模拟行走机器人        |        Set         | [C++](L-874-cpp/main.cpp)  |                                  |                       |        |
-|  49  |       字母异位词分组        |        Map         |  [C++](L-49-cpp/main.cpp)  |                                  |                       |        |
-|  30  |     串联所有单词的子串      |        Map         |  [C++](L-30-cpp/main.cpp)  |                                  |                       |        |
-| 146  |          LRU 缓存           |        Map         | [C++](L-146-cpp/main.cpp)  |                                  |                       |        |
-| 1248 |     统计「优美子数组」      |     Prefix sum     | [C++](L-1248-cpp/main.cpp) |                                  |                       |        |
-|  53  |        最大子数组和         |     Prefix sum     |  [C++](L-53-cpp/main.cpp)  | [Java](L-53-java/src/Main.java)  |                       |        |
-| 304  | 二维区域和检索 - 矩阵不可变 |     Prefix sum     | [C++](L-304-cpp/main.cpp)  | [Java](L-304-java/src/Main.java) |                       |        |
-| 1109 |        航班预订统计         |     Difference     | [C++](L-1109-cpp/main.cpp) |                                  |                       |        |
-| 167  | 两数之和 II - 输入有序数组  |   Double pointer   | [C++](L-167-cpp/main.cpp)  |                                  |                       |        |
-|  15  |          三数之和           |   Double pointer   |  [C++](L-15-cpp/main.cpp)  |                                  |                       |        |
-|  11  |       盛最多水的容器        |   Double pointer   |  [C++](L-11-cpp/main.cpp)  |                                  |                       |        |
-|  78  |            子集             |     Recursion      |  [C++](L-78-cpp/main.cpp)  |                                  |                       |        |
-|  77  |            组合             |     Recursion      |  [C++](L-77-cpp/main.cpp)  |                                  |                       |        |
-|  46  |           全排列            |     Recursion      |  [C++](L-46-cpp/main.cpp)  |                                  |                       |        |
-| 226  |         翻转二叉树          |     Recursion      |                            | [Java](L-226-java/src/Main.java) |                       |        |
-|  98  |       验证二叉搜索树        |     Recursion      |                            | [Java](L-98-java/src/Main.java)  |                       |        |
-| 104  |      二叉树的最大深度       |     Recursion      | [C++](L-104-cpp/main.cpp)  | [Java](L-104-java/src/Main.java) |                       |        |
-| 104  |      二叉树的最大深度       |     Recursion      | [C++](L-104-cpp/main.cpp)  | [Java](L-104-java/src/Main.java) |                       |        |
-|  50  |          Pow(x, n)          | Divide-and-conquer |  [C++](L-50-cpp/main.cpp)  |                                  |                       |        |
-|  22  |          括号生成           | Divide-and-conquer |  [C++](L-22-cpp/main.cpp)  |                                  |                       |        |
+|  ID  |              Name              |        Type        |            C++             |               Java               |        Golang         | Python |
+| :--: | :----------------------------: | :----------------: | :------------------------: | :------------------------------: | :-------------------: | ------ |
+|  26  |     删除有序数组中的重复项     |       Array        |  [C++](L-26-cpp/main.cpp)  |                                  |                       |        |
+| 283  |             移动零             |       Array        | [C++](L-283-cpp/main.cpp)  |                                  |                       |        |
+|  88  |        合并两个有序数组        |       Array        |  [C++](L-88-cpp/main.cpp)  |                                  |                       |        |
+| 206  |            反转链表            | Single linked list | [C++](L-206-cpp/main.cpp)  | [Java](L-206-java/src/Main.java) |                       |        |
+|  25  |        K 个一组翻转链表        | Single linked list |  [C++](L-25-cpp/main.cpp)  | [Java](L-25-java/src/Main.java)  |                       |        |
+| 141  |            环形链表            | Doubly linked list | [C++](L-141-cpp/main.cpp)  |                                  |                       |        |
+| 142  |          环形链表 II           | Doubly linked list | [C++](L-142-cpp/main.cpp)  |                                  |                       |        |
+|  35  |        搜索插入位置 II         |                    |                            |                                  | [Go](L-35-go/main.go) |        |
+|  20  |           有效的括号           |       Stack        |  [C++](L-20-cpp/main.cpp)  |                                  |                       |        |
+| 155  |             最小栈             |       Stack        | [C++](L-155-cpp/main.cpp)  |                                  |                       |        |
+| 150  |        逆波兰表达式求值        |       Stack        | [C++](L-150-cpp/main.cpp)  |                                  |                       |        |
+| 227  |         基本计算器 II          |       Stack        | [C++](L-227-cpp/main.cpp)  |                                  |                       |        |
+| 224  |           基本计算器           |       Stack        | [C++](L-224-cpp/main.cpp)  |                                  |                       |        |
+|  84  |       柱状图中最大的矩形       |  Monotonic stack   |  [C++](L-84-cpp/main.cpp)  |                                  |                       |        |
+|  42  |             接雨水             |  Monotonic stack   |  [C++](L-42-cpp/main.cpp)  |                                  |                       |        |
+|  1   |            两数之和            | Map/Double pointer |  [C++](L-1-cpp/main.cpp)   |  [Java](L-1-java/src/Main.java)  | [Go](L-1-go/main.go)  |        |
+| 874  |         模拟行走机器人         |        Set         | [C++](L-874-cpp/main.cpp)  |                                  |                       |        |
+|  49  |         字母异位词分组         |        Map         |  [C++](L-49-cpp/main.cpp)  |                                  |                       |        |
+|  30  |       串联所有单词的子串       |        Map         |  [C++](L-30-cpp/main.cpp)  |                                  |                       |        |
+| 146  |            LRU 缓存            |        Map         | [C++](L-146-cpp/main.cpp)  |                                  |                       |        |
+| 1248 |       统计「优美子数组」       |     Prefix sum     | [C++](L-1248-cpp/main.cpp) |                                  |                       |        |
+|  53  |          最大子数组和          |     Prefix sum     |  [C++](L-53-cpp/main.cpp)  | [Java](L-53-java/src/Main.java)  |                       |        |
+| 304  |  二维区域和检索 - 矩阵不可变   |     Prefix sum     | [C++](L-304-cpp/main.cpp)  | [Java](L-304-java/src/Main.java) |                       |        |
+| 1109 |          航班预订统计          |     Difference     | [C++](L-1109-cpp/main.cpp) |                                  |                       |        |
+| 167  |   两数之和 II - 输入有序数组   |   Double pointer   | [C++](L-167-cpp/main.cpp)  |                                  |                       |        |
+|  15  |            三数之和            |   Double pointer   |  [C++](L-15-cpp/main.cpp)  |                                  |                       |        |
+|  11  |         盛最多水的容器         |   Double pointer   |  [C++](L-11-cpp/main.cpp)  |                                  |                       |        |
+|  78  |              子集              |     Recursion      |  [C++](L-78-cpp/main.cpp)  |                                  |                       |        |
+|  77  |              组合              |     Recursion      |  [C++](L-77-cpp/main.cpp)  |                                  |                       |        |
+|  46  |             全排列             |     Recursion      |  [C++](L-46-cpp/main.cpp)  |                                  |                       |        |
+| 226  |           翻转二叉树           |     Recursion      |                            | [Java](L-226-java/src/Main.java) |                       |        |
+|  98  |         验证二叉搜索树         |     Recursion      |                            | [Java](L-98-java/src/Main.java)  |                       |        |
+| 104  |        二叉树的最大深度        |     Recursion      | [C++](L-104-cpp/main.cpp)  | [Java](L-104-java/src/Main.java) |                       |        |
+| 104  |        二叉树的最大深度        |     Recursion      | [C++](L-104-cpp/main.cpp)  | [Java](L-104-java/src/Main.java) |                       |        |
+|  50  |           Pow(x, n)            | Divide-and-conquer |  [C++](L-50-cpp/main.cpp)  |                                  |                       |        |
+|  22  |            括号生成            | Divide-and-conquer |  [C++](L-22-cpp/main.cpp)  |                                  |                       |        |
+|  94  |        二叉树的中序遍历        |        Tree        |                            | [Java](L-94-java/src/Main.java)  |                       |        |
+| 589  |        N 叉树的前序遍历        |        Tree        |                            | [Java](L-589-java/src/Main.java) |                       |        |
+| 429  |        N 叉树的层序遍历        |        Tree        |                            | [Java](L-429-java/src/Main.java) |                       |        |
+| 297  |    二叉树的序列化与反序列化    |        Tree        |                            | [Java](L-297-java/src/Main.java) |                       |        |
+| 105  | 从前序与中序遍历序列构造二叉树 |        Tree        |                            | [Java](L-105-java/src/Main.java) |                       |        |
 
 ## Acwing 合集
 
