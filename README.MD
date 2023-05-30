@@ -52,6 +52,9 @@
 | 429  |        N 叉树的层序遍历        |        Tree        |                            | [Java](L-429-java/src/Main.java) |                       |        |
 | 297  |    二叉树的序列化与反序列化    |        Tree        |                            | [Java](L-297-java/src/Main.java) |                       |        |
 | 105  | 从前序与中序遍历序列构造二叉树 |        Tree        |                            | [Java](L-105-java/src/Main.java) |                       |        |
+| 236  |      二叉树的最近公共祖先      |        Tree        | [C++](L-236-cpp/main.cpp)  |                                  |                       |        |
+| 207  |             课程表             |       Graph        | [C++](L-207-cpp/main.cpp)  |                                  |                       |        |
+| 684  |            冗余连接            |       Graph        | [C++](L-684-cpp/main.cpp)  |                                  |                       |        |
 
 ## Acwing 合集
 
