@@ -11,8 +11,8 @@
 
 |  ID  |              Name              |        Type        |            C++             |               Java               |        Golang         | Python |
 | :--: | :----------------------------: | :----------------: | :------------------------: | :------------------------------: | :-------------------: | ------ |
-|  26  |     删除有序数组中的重复项     |       Array        |  [C++](L-26-cpp/main.cpp)  |                                  |                       |        |
-| 283  |             移动零             |       Array        | [C++](L-283-cpp/main.cpp)  |                                  |                       |        |
+|  26  |     删除有序数组中的重复项     |       Array        |  [C++](L-26-cpp/main.cpp)  | [Java](L-26-java/src/Main.java)  |                       |        |
+| 283  |             移动零             |       Array        | [C++](L-283-cpp/main.cpp)  | [Java](L-283-java/src/Main.java) |                       |        |
 |  88  |        合并两个有序数组        |       Array        |  [C++](L-88-cpp/main.cpp)  |                                  |                       |        |
 | 206  |            反转链表            | Single linked list | [C++](L-206-cpp/main.cpp)  | [Java](L-206-java/src/Main.java) |                       |        |
 |  25  |        K 个一组翻转链表        | Single linked list |  [C++](L-25-cpp/main.cpp)  | [Java](L-25-java/src/Main.java)  |                       |        |

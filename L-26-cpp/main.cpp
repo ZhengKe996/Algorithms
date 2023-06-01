@@ -6,10 +6,10 @@ using namespace std;
 class Solution {
 public:
     int removeDuplicates(vector<int> &nums) {
-        int n = 0;
+        int n = 0; // 初始长度为0
         for (int i = 0; i < nums.size(); i++) {
             if (i == 0 || nums[i] != nums[i - 1]) {
-                nums[n] = nums[i];
+                nums[n] = nums[i]; // 如果nums[i]==[i-1]则证明有重复元素
                 n++;
             }
         }
