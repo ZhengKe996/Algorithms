@@ -18,7 +18,7 @@
 |  25  |        K 个一组翻转链表        | Single linked list |  [C++](L-25-cpp/main.cpp)  | [Java](L-25-java/src/Main.java)  |                       |        |
 | 141  |            环形链表            | Doubly linked list | [C++](L-141-cpp/main.cpp)  |                                  |                       |        |
 | 142  |          环形链表 II           | Doubly linked list | [C++](L-142-cpp/main.cpp)  |                                  |                       |        |
-|  35  |        搜索插入位置 II         |                    |                            |                                  | [Go](L-35-go/main.go) |        |
+|  35  |        搜索插入位置 II         |                    |  [C++](L-35-cpp/main.cpp)  |                                  | [Go](L-35-go/main.go) |        |
 |  20  |           有效的括号           |       Stack        |  [C++](L-20-cpp/main.cpp)  |                                  |                       |        |
 | 155  |             最小栈             |       Stack        | [C++](L-155-cpp/main.cpp)  |                                  |                       |        |
 | 150  |        逆波兰表达式求值        |       Stack        | [C++](L-150-cpp/main.cpp)  |                                  |                       |        |
